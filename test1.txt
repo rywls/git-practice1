@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git연습
 git연습2
+=======
+git merge
+>>>>>>> develop
